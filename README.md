@@ -1,7 +1,7 @@
 # AWS Aurora CloudFormation Samples
 
 
-This GitHub repository contains:
+This GitHub repository contains the following
 
 1. A set of AWS CloudFormation samples to deploy an Amazon Aurora DB cluster based on AWS security and high availability best practices.
 2. Python based source code to bootstrap the database upon creation using AWS Lambda.
